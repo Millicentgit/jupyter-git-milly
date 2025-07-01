@@ -1,0 +1,5 @@
+# Jupyter + Git Assignment
+
+This is my submission for the assignment demonstrating basic Git and Jupyter Notebook usage.
+
+![My photo](my-photo.jpg)
