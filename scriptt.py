@@ -1,0 +1,2 @@
+MAX_THRESHOLD = 1604
+OUTPUT_FILE = "result.csv"
